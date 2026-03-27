@@ -1,4 +1,10 @@
-# Plant Taxonomy Meets Plant Counting: A Fine-Grained, Taxonomic Dataset for Counting Hundreds of Plant Species
+# Plant Taxonomy Meets Plant Counting: A Fine-Grained, Taxonomic Dataset
+
+<p align="middle">
+    <a href="https://arxiv.org/abs/2603.21229"><img src="https://img.shields.io/badge/arXiv-2603.21229-b31b1b.svg" alt="arXiv"></a>
+    <a href="https://drive.google.com/file/d/1kLlcuyQ1yKE5-TqRkS4CNRgq0VH-RpKc/view?usp=sharing"><img src="https://img.shields.io/badge/Dataset-Download-green" alt="Dataset"></a>
+    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg" alt="License"></a>
+</p>
 
 **[CVPR 2026]** Official repository for the paper **"Plant Taxonomy Meets Plant Counting: A Fine-Grained, Taxonomic Dataset for Counting Hundreds of Plant Species"**.
 

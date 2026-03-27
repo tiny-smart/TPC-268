@@ -1,4 +1,4 @@
-# Plant Taxonomy Meets Plant Counting: A Fine-Grained, Taxonomic Dataset for Counting Hundreds of Plant Species
+# Plant Taxonomy Meets Plant Counting:<br>A Fine-Grained, Taxonomic Dataset for Counting Hundreds of Plant Species
 
 <p align="middle">
     <a href="https://arxiv.org/abs/2603.21229"><img src="https://img.shields.io/badge/arXiv-2603.21229-b31b1b.svg" alt="arXiv"></a>

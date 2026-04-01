@@ -1,9 +1,8 @@
-# Plant Taxonomy Meets Plant Counting:<br>A Fine-Grained, Taxonomic Dataset for Counting Hundreds of Plant Species
-
-<p align="middle">
-    <a href="https://arxiv.org/abs/2603.21229"><img src="https://img.shields.io/badge/arXiv-2603.21229-b31b1b.svg" alt="arXiv"></a>
-    <a href="https://drive.google.com/file/d/1kLlcuyQ1yKE5-TqRkS4CNRgq0VH-RpKc/view?usp=sharing"><img src="https://img.shields.io/badge/Dataset-Download-green" alt="Dataset"></a>
-    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg" alt="License"></a>
+# 🌳🌻 Plant Taxonomy Meets Plant Counting 🍀🍒 :<br>A Fine-Grained, Taxonomic Dataset for Counting Hundreds of Plant Species
+<p align="center">
+    <a href="https://arxiv.org/abs/2603.21229"><img src="https://img.shields.io/badge/arXiv-2603.21229-b31b1b?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv"></a>
+    <a href="https://huggingface.co/datasets/jinyu-xu/TPC-268"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-FFD21E?style=flat-square" alt="Hugging Face"></a>
+    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey?style=flat-square&logo=creativecommons&logoColor=white" alt="License"></a>
 </p>
 
 **[CVPR 2026]** Official repository for the paper **"Plant Taxonomy Meets Plant Counting: A Fine-Grained, Taxonomic Dataset for Counting Hundreds of Plant Species"**.
@@ -26,7 +25,7 @@
 
 ## Dataset Download
 
-You can download TPC-268 from either of the following links: [Baidu Pan](https://pan.baidu.com/s/1pYET_8I7a6mKmdLYCT0O8g?pwd=jjhv), [Google Drive](https://drive.google.com/file/d/1kLlcuyQ1yKE5-TqRkS4CNRgq0VH-RpKc/view?usp=sharing). Extract the downloaded file into a `TPC-268/` directory. The images are strictly organized by their taxonomy and organization:
+You can download TPC-268 from either of the following links: [Hugging Face]([https://pan.baidu.com/s/1pYET_8I7a6mKmdLYCT0O8g?pwd=jjhv](https://huggingface.co/datasets/jinyu-xu/TPC-268), [Baidu yun](https://pan.baidu.com/s/1pYET_8I7a6mKmdLYCT0O8g?pwd=jjhv), [Google Drive](https://drive.google.com/file/d/1kLlcuyQ1yKE5-TqRkS4CNRgq0VH-RpKc/view?usp=sharing). Extract the downloaded file into a `TPC-268/` directory. The images are strictly organized by their taxonomy and organization:
 `TPC-268/[Genus_Species]/[Organization]/[Genus_Species]_[Organization]_[index].jpg`
 
 ```text

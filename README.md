@@ -25,7 +25,7 @@
 
 ## Dataset Download
 
-You can download TPC-268 from either of the following links: [Hugging Face](https://huggingface.co/datasets/jinyu-xu/TPC-268), [Baidu yun](https://pan.baidu.com/s/1pYET_8I7a6mKmdLYCT0O8g?pwd=jjhv), [Google Drive](https://drive.google.com/file/d/1kLlcuyQ1yKE5-TqRkS4CNRgq0VH-RpKc/view?usp=sharing). Extract the downloaded file into a `TPC-268/` directory. The images are strictly organized by their taxonomy and organization:
+You can download TPC-268 from either of the following links: [Hugging Face](https://huggingface.co/datasets/jinyu-xu/TPC-268), [Google Drive](https://drive.google.com/file/d/1MNS03y5e_skC_CPm0Qz2BwLWxTTZeFSf/view?usp=sharing). Extract the downloaded file into a `TPC-268/` directory. The images are strictly organized by their taxonomy and organization:
 `TPC-268/[Genus_Species]/[Organization]/[Genus_Species]_[Organization]_[index].jpg`
 
 ```text

@@ -2,6 +2,7 @@
 <p align="center">
     <a href="https://arxiv.org/abs/2603.21229"><img src="https://img.shields.io/badge/arXiv-2603.21229-b31b1b?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv"></a>
     <a href="https://huggingface.co/datasets/jinyu-xu/TPC-268"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-FFD21E?style=flat-square" alt="Hugging Face"></a>
+    <a href="https://tiny-smart.github.io/tpc268-project-page/"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Project%20Page-TPC--268-blue?style=flat-square" alt="Project Page"></a>
     <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey?style=flat-square&logo=creativecommons&logoColor=white" alt="License"></a>
 </p>
 

@@ -4,6 +4,7 @@
     <a href="https://huggingface.co/datasets/jinyu-xu/TPC-268"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-FFD21E?style=flat-square" alt="Hugging Face"></a>
     <a href="https://tiny-smart.github.io/tpc268-project-page/"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Project%20Page-TPC--268-blue?style=flat-square" alt="Project Page"></a>
     <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey?style=flat-square&logo=creativecommons&logoColor=white" alt="License"></a>
+    <a href="./slides/TPC-268_CVPR2026_Oral.pdf"><img src="https://img.shields.io/badge/Slides-CVPR%202026%20Oral-orange?style=flat-square&logo=googleslides&logoColor=white" alt="Slides"></a>
 </p>
 
 **[CVPR 2026 Oral]** Official repository for the paper **"Plant Taxonomy Meets Plant Counting: A Fine-Grained, Taxonomic Dataset for Counting Hundreds of Plant Species"**.
@@ -11,6 +12,8 @@
 **Authors:** Jinyu Xu, Tianqi Hu, Xiaonan Hu, Letian Zhou, Songliang Cao, Meng Zhang, Hao Lu*
 
 *TPC-268 is a large-scale dataset for class-agnostic counting (CAC) that explicitly integrates plant taxonomy. It is designed to tackle the unique challenges of visual counting in the natural world, featuring highly diverse and nonrigid plant morphologies.*
+
+📑 The oral presentation slides are available in the [`slides/`](./slides/) directory.
 
 ## Dataset Overview
 * **Images:** 10,000 images spanning extreme observation scales, ranging from canopy-level remote sensing to tissue-level microscopy.

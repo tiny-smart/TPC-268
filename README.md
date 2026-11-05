@@ -51,6 +51,7 @@ Core data files are located in the `annotations/` and `splits/` directories:
 * `annotations/tpc268_annotations.json`: Instance-level point annotations and 4-point coordinates for exemplars.
 * `annotations/tpc268_taxonomy_ids.json`: Mapping of hierarchical taxonomic levels (Kingdom to Species) to unique numerical IDs.
 * `annotations/tpc268_taxonomy_vectors.json`: 7-dimensional taxonomic feature vectors for each plant species.
+* `annotations/tpc268_taxonomy_mapping.csv`: Mapping of image directory names to the complete seven-level taxonomy (Kingdom to Species).
 * `splits/tpc268_[train|val|test].txt`: Lists of relative image paths used for data loading.
 * `splits/tpc268_split.json`: Lists of specific species-organization categories partitioned into the train, val, and test sets.
 

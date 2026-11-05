@@ -72,21 +72,23 @@ python tools/tpc268_visualize_dataset.py --img_path TPC-268/Zea_mays/fruit/Zea_m
 
 ## Benchmark Results
 
-The following table reports the 3-shot counting performance on TPC-268, best performance is highlighted in bold. For other experimental results, please refer to the main paper.
+The following table reports updated 3-shot counting results on TPC-268. Best results in each column are highlighted in bold. For other experimental results, please refer to the main paper.
 
 | Method      | Backbone | Val MAE   | Val RMSE  | Val $R^2$ | Test MAE  | Test RMSE | Test $R^2$ |
 | :---------- | :------- | :-------- | :-------- | :-------- | :-------- | :-------- | :--------- |
-| FamNet      | R50      | 28.87     | 52.51     | 0.58      | 30.43     | 65.62     | 0.62       |
-| BMNet+      | R50      | 29.33     | 77.78     | 0.47      | 27.78     | 57.25     | 0.74       |
-| C-DETR      | R50      | 22.66     | 77.51     | 0.75      | 22.68     | 57.97     | 0.74       |
+| FamNet      | R50      | 30.43     | 65.62     | 0.62      | 28.87     | 52.51     | 0.58       |
+| BMNet+      | R50      | 29.33     | 77.78     | 0.47      | 27.78     | 57.25     | 0.50       |
+| C-DETR      | R50      | 28.48     | 75.64     | 0.50      | 35.70     | 74.17     | 0.16       |
 | SPDCNet     | R18      | 25.66     | 72.49     | 0.52      | 23.70     | 47.53     | 0.64       |
 | CountTR     | Hybrid   | 20.21     | 55.82     | 0.73      | 25.19     | 49.94     | 0.62       |
 | SAFECount   | R18      | 22.57     | 63.65     | 0.64      | 25.70     | 52.30     | 0.58       |
 | LOCA        | R50      | 17.26     | 53.19     | 0.75      | **17.51** | **38.37** | **0.78**   |
 | DAVE        | R50      | 16.47     | 52.87     | 0.76      | 17.61     | 40.06     | 0.75       |
-| CACVIT      | ViT-B    | 16.63     | **42.49** | 0.82      | 22.04     | 41.79     | 0.73       |
+| CACViT      | ViT-B    | 17.12     | 57.41     | 0.71      | 18.13     | 52.41     | 0.58       |
 | CountGD     | Swin-B   | 18.32     | 54.55     | 0.74      | 19.52     | 50.51     | 0.61       |
-| TasselNetV4 | ViT-B    | **13.20** | 43.93     | **0.83**  | 22.95     | 51.36     | 0.60       |
+| TasselNetV4 | ViT-B    | **13.20** | **43.93** | **0.83**  | 22.95     | 51.36     | 0.60       |
+
+For the cross-dataset experiment in Table 3, the updated LOCA result for **FSC-147 → TPC-268** (3-shot, Test) is **24.70 / 63.65 / 0.38** (MAE / RMSE / $R^2$).
 
 ## Citation
 
